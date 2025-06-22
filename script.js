@@ -1,5 +1,7 @@
-const langs = ["العربية", "الفرنسية" , "الانجليزية"] 
-langs[1] = "الايطالية"
-console.log(langs);
-langs.push("الايطالية")
-langs.pop()
+const person = {
+    id : 456847
+    firstName : "Anas"
+    address : "cairo , Egypt"
+    hobbies : ["football","tennis"]
+}
+console.log(person);
