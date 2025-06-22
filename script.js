@@ -26,4 +26,7 @@ person.firstName = "islam"
 console.log(person);
 person.sayHi()
 person.m()
-
+function print(text){
+    console.log(text);
+}
+print("anas")
