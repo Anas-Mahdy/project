@@ -4,3 +4,4 @@ const person = {
     address : "cairo , Egypt"
     hobbies : ["football","tennis"]
 }
+console.log(person);
